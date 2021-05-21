@@ -1,6 +1,6 @@
 {
   "name": "create-contentful-content",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "an easier way to programmatically create contentful content",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
